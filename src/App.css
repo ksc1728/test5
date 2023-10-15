@@ -1,0 +1,12 @@
+.App{
+    font-family: Arial, Helvetica, sans-serif;
+    display:block;
+    align-items: center;
+    justify-content: center;
+    width:400px;
+    height:auto;
+    margin-left: 40%;
+}
+.heading{
+    margin-left: 35px;
+}

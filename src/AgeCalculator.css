@@ -1,0 +1,30 @@
+.box{
+    font-family: Arial, Helvetica, sans-serif;
+    display:block;
+    align-items: center;
+    justify-content: center;
+}
+.label{
+    display:block;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold; 
+    margin-left: 58px;
+    margin-bottom: 20px;
+}
+.btn{
+    background-color: #0a7efb;
+    border-radius:4px;
+    padding:10px;
+    border:none;
+    color:white;
+    margin-top: 20px;
+    margin-left: 23%;
+}
+.fill{
+    width:300px;
+    height:30px;
+}
+.result{
+    margin-left: 42px;
+}
